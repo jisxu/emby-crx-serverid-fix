@@ -8,6 +8,7 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document_idle
+// @license      GPL-3.0 license
 // ==/UserScript==
 
 (function() {
