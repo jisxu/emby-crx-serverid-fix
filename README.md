@@ -2,7 +2,7 @@
 为 Emby-CRX 美化封面功能修复 serverid 未定义错误，本脚本会在后台自动为 Emby 媒体卡片注入预设的 Server ID。
 
 # 如何使用
-[➡️ 一键安装 Emby Server ID 修复脚本 ⬅️](https://raw.githubusercontent.com/jisxu/emby-crx-serverid-fix/refs/heads/main/emby-crx-serverid-fix.js)
+[➡️ 一键安装 Emby Server ID 修复脚本 ⬅️](https://greasyfork.org/en/scripts/536728-emby-server-id-%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE)
 
 # 配置你的 Server ID
 **重要：脚本安装后，你需要手动修改脚本代码中的 Server ID。**
