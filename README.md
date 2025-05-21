@@ -5,9 +5,9 @@
 [➡️ 一键安装 Emby Server ID 修复脚本 ⬅️](https://raw.githubusercontent.com/jisxu/emby-crx-serverid-fix/refs/heads/main/emby-crx-serverid-fix.js)
 
 # 配置你的 Server ID
-重要：脚本安装后，你需要手动修改脚本代码中的 Server ID。
+**重要：脚本安装后，你需要手动修改脚本代码中的 Server ID。**
 
-# 安装脚本后，点击浏览器右上角的 Tampermonkey/Violentmonkey 图标，找到并点击这个脚本的名称以进入编辑界面。
+点击浏览器右上角的 Tampermonkey/Violentmonkey 图标，找到并点击这个脚本的名称以进入编辑界面。
 在脚本代码中找到这行：
 
 ```javascript
