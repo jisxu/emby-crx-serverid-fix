@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Emby Server ID 自动配置
 // @namespace    https://github.com/jisxu/emby-crx-serverid-fix
-// @version      1.0
+// @version      1.1
 // @description  自动将预设的 Server ID 应用到 Emby 媒体库卡片上
 // @author       jisxu
 // @match        *://*/web/index.html*
